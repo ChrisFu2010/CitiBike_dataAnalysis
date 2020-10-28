@@ -1,6 +1,8 @@
 # CitiBike_dataAnalysis
 
-Some basic analysis of CitiBike Data
+Some basic analysis of CitiBike Data. 
+
+Dataset can be found here: https://www.citibikenyc.com/system-data
 
 ## 1. bike station heat map
 ![](images/000005.png)
